@@ -11,7 +11,7 @@ options for my family.
 - Wrote this public proof log
 - Next up: S3 + IAM “Public Access Problem” lab
 **Projects (live/soon)**
-(whatever projects or workshops you will do)
+Automate Snapshot and Server Recovery with IaC
 **How I document**
 Each project includes: problem → approach → commands/code → screenshots →
 lessons learned → what I'd do differently.
