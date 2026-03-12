@@ -44,7 +44,7 @@ A public e-commerce site (CloudMart) is manually creating snapshots and needs to
 -Identify the server(s) that need snapshots
 ## Solution
 Configured terriform to automatically create snapshots to be used for server recovery.
-##Result
+## Result
 ✅  Minimized Downtime: With a reliable server recovery plan in place, your organization can quickly recover from a disaster, minimizing the impact on your customers, employees, and overall business operations.
 ✅  Data Protection: Server recovery ensures that critical data is backed up regularly, reducing the risk of data loss or corruption in case of a disaster.
 ✅  Business Continuity: A well-planned server recovery process helps ensure that your organization can continue to operate, even in the event of a disaster, by providing a temporary solution until normal operations can resume.
