@@ -43,7 +43,7 @@ A public e-commerce site (CloudMart) needs to automate creating snapshots and se
 ## Investigation Process
 -Identify the server(s) that need snapshots
 ## Solution
-Configured terriform to automatically create snapshots to be used for server recovery.
+Configured terriform to automatically create snapshots to be used for server recovery. Verified that snapshots were created. Also, verified that restored servers/ applications worked as intended.
 ## Result
 ✅  Minimized Downtime
 ✅  Data Protection
@@ -53,7 +53,7 @@ Configured terriform to automatically create snapshots to be used for server rec
 ✅  Improved Customer Customer Satisfaction
 ✅  Reduced Risk of Data Breaches
 ✅  Enhanced Reputation
-✅  Increaded Agility
+✅  Increased Agility
 ✅  Comprehensive Planning.
 ## Skills Highlighted
 Disaster Recovery • Cloud Security • Troubleshooting • Documentation
