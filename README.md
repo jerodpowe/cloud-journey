@@ -39,7 +39,7 @@ access.
 ## Skills Highlighted
 AWS S3 • IAM • Cloud Security • Troubleshooting • Documentation
 ## Week 2 Problem Statement
-A public e-commerce site (CloudMart) is manually creating snapshots and needs to automate snapshots and server recovery using IaC.
+A public e-commerce site (CloudMart) needs to automate creating snapshots and server recovery using IaC.
 ## Investigation Process
 -Identify the server(s) that need snapshots
 ## Solution
